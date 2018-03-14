@@ -1,40 +1,35 @@
 import React from 'react'
 import { Button } from "react-native"
 
-import Sound from 'react-native-sound'
-
-Sound.setCategory('Playback');
-
 
 var SoundButton = props => {
 
-    var sound = new Sound(props.soundFile, Sound.MAIN_BUNDLE, (error) => {
-        if (error) {
-            console.log('failed to load the sound', error);
-            return;
-        }
-        // loaded successfully
-        console.log('duration in seconds: ' + sound.getDuration() + 'number of channels: ' + sound.getNumberOfChannels());
-    })
+    let reactSound = props.reactSound
 
-    var playSound = () => {
 
-        console.log(sound.isPlaying())
+    function playSound() {
 
-        sound.play((success) => {
-            if (success) {
-                console.log('successfully finished playing');
-            } else {
-                console.log('playback failed due to audio decoding errors');
-                // reset the player to its uninitialized state (android only)
-                // this is the only option to recover after an error occured and use the player again
-                sound.reset();
+        let sound = new reactSound(props.soundFile, reactSound.MAIN_BUNDLE, error => callback(error, sound))
+
+        const callback = (error, sound) => {
+            if (error) {
+                Alert.alert('error', error.message)
+                return;
             }
-        });
+
+            sound.play((success) => {
+                if (success) {
+                    sound.release()
+                } else {
+                    console.log('playback failed due to audio decoding errors')
+                    sound.reset()
+                }
+            })
+        }
     }
 
     return (
-        <Button title="SoundButton" onPress={() => playSound()} />
+        <Button title={props.name} onPress={() => playSound()} />
     )
 }
 

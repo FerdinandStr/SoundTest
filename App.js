@@ -1,5 +1,8 @@
 import React from 'react';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { StyleSheet, Text, View, Button, ScrollView } from 'react-native';
+let Sound = require('react-native-sound')
+
+Sound.setCategory('Playback');
 
 import FetchLocation from "./src/components/FetchLocation"
 import SoundButton from "./src/components/SoundButton"
@@ -8,9 +11,11 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <FetchLocation onGetLocation={this.getUserLocationHandler} />
-        <SoundButton soundFile={"still_dre.mp3"}/>
+        <Text>RBTV Taunts !</Text>
+
+        <ScrollView contentContainerStyle={styles.contentContainer}>
+          {this.createSoundButtons()}
+        </ScrollView>
       </View>
     );
   }
@@ -18,7 +23,20 @@ export default class App extends React.Component {
 
 
   getUserLocationHandler = () => {
-    navigator.geolocation.getCurrentPosition(position => {console.log("Position:", position)}, error => console.log("ERROR", error))
+    navigator.geolocation.getCurrentPosition(position => { console.log("Position:", position) }, error => console.log("ERROR", error))
+  }
+
+  createSoundButtons = () => {
+
+    let buttonArray = []
+
+    for (let i = 60; i <= 141; i++) {
+      buttonArray.push(<SoundButton reactSound={Sound} name={" " + i + " "} soundFile={"roe_" + i + ".mp3"} />)
+    }
+
+    return (
+      buttonArray
+    )
   }
 }
 
@@ -29,4 +47,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  contentContainer: {
+    paddingVertical: 20
+  }
 });

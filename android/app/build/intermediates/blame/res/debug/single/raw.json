@@ -1,6 +1,334 @@
 [
     {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_69.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_69.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_94.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_94.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_109.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_109.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_63.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_63.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_117.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_117.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_134.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_134.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_125.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_125.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_80.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_80.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_120.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_120.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_139.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_139.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_72.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_72.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_77.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_77.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_85.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_85.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_78.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_78.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_108.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_108.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_112.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_112.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_116.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_116.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_71.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_71.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_86.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_86.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_135.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_135.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_121.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_121.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_124.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_124.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_113.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_113.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_90.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_90.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_110.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_110.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_102.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_102.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_104.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_104.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_64.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_64.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_115.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_115.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_93.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_93.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_107.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_107.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_99.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_99.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_61.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_61.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_129.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_129.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_96.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_96.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_118.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_118.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_126.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_126.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_137.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_137.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_100.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_100.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_66.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_66.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_106.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_106.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_114.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_114.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_91.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_91.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_74.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_74.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_83.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_83.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_128.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_128.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_88.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_88.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_123.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_123.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_131.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_131.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_136.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_136.mp3"
+    },
+    {
         "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\still_dre.mp3",
         "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\still_dre.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_82.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_82.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_67.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_67.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_75.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_75.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_105.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_105.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_101.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_101.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_119.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_119.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_60.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_60.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_97.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_97.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_132.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_132.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_127.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_127.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_140.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_140.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_89.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_89.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_70.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_70.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_84.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_84.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_138.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_138.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_95.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_95.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_79.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_79.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_87.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_87.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_98.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_98.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_141.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_141.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_130.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_130.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_133.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_133.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_65.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_65.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_62.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_62.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_68.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_68.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_122.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_122.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_92.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_92.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_76.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_76.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_81.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_81.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_73.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_73.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_111.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_111.mp3"
+    },
+    {
+        "merged": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\roe_103.mp3",
+        "source": "C:\\Projekte\\React\\reactNative\\share-places\\android\\app\\src\\main\\res\\raw\\roe_103.mp3"
     }
 ]
